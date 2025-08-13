@@ -43,7 +43,8 @@ Finally, run the project by running the following command:
 streamlit run app.py
 ```
 
-
-
----
+## Author
+### Gavara Lokesh
+📧 lokeshgavara1@gmail.com
+🔗 LinkedIn Profile
 
